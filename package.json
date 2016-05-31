@@ -21,6 +21,10 @@
     "cordova-plugin-splashscreen",
     "cordova-plugin-statusbar",
     "ionic-plugin-keyboard",
-    "cordova-plugin-ble"
+    "cordova-plugin-ble",
+    "cordova-plugin-geolocation"
+  ],
+  "cordovaPlatforms": [
+    "android"
   ]
 }
