@@ -15,8 +15,9 @@ HM-11 has 2 Programmable I/O lines:
 
 ## Run it
 1. Make sure to have [Ionic installed](http://ionicframework.com/docs/guide/installation.html).
-2. `git clone http://www.github.com/bgond/hm11-pio && cd hm11-pio`
-3. Run with Ionic: `ionic run android`
+2. `git clone http://www.github.com/bgond/hm11-pio.git && cd hm11-pio`
+3. Install plugins as needed `ionic state restore` 
+4. Run with Ionic: `ionic run android`
 
 ## BLE LED notifier
 ![Notifier](www/img/littleblock.jpg?raw=true "")
